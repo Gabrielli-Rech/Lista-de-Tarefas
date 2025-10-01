@@ -1,4 +1,4 @@
-** ✅ Lista de Tarefas**
+**✅ Lista de Tarefas**
 
 Bem-vindo ao **Lista de Tarefas**, uma aplicação web simples desenvolvida com HTML, CSS e JavaScript. Este projeto tem como objetivo fornecer uma interface intuitiva para gerenciar suas tarefas diárias de forma eficiente e organizada.
 
