@@ -13,7 +13,7 @@ Bem-vindo ao **Lista de Tarefas**, uma aplicação web simples desenvolvida com 
 
 ---
 
-** 🛠️ Tecnologias Utilizadas**
+**🛠️ Tecnologias Utilizadas**
 
 - **HTML5**: Estruturação do conteúdo.
 - **CSS3**: Estilização e layout.
