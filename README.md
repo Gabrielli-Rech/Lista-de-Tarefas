@@ -1,10 +1,10 @@
-**# ✅ Lista de Tarefas**
+** ✅ Lista de Tarefas**
 
 Bem-vindo ao **Lista de Tarefas**, uma aplicação web simples desenvolvida com HTML, CSS e JavaScript. Este projeto tem como objetivo fornecer uma interface intuitiva para gerenciar suas tarefas diárias de forma eficiente e organizada.
 
 ---
 
-**## 🔧 Funcionalidades**
+**🔧 Funcionalidades**
 
 - **Adicionar Tarefas**: Insira novas tarefas na lista.
 - **Marcar como Concluída**: Marque tarefas como concluídas para acompanhamento.
@@ -13,7 +13,7 @@ Bem-vindo ao **Lista de Tarefas**, uma aplicação web simples desenvolvida com 
 
 ---
 
-**## 🛠️ Tecnologias Utilizadas**
+** 🛠️ Tecnologias Utilizadas**
 
 - **HTML5**: Estruturação do conteúdo.
 - **CSS3**: Estilização e layout.
